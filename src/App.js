@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to RELOAD!!!
+          I am currently editing <code>src/App.js</code> to make this FUCKING AWESOME!!!
         </p>
         <a
           className="App-link"
